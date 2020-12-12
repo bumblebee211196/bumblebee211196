@@ -33,18 +33,15 @@
 - [Daily Coding Problem 1](https://bumblebee2196.netlify.app/daily-coding-problem-1/)
 <!-- BLOG-POST-LIST:END -->
 
+#### Latest StackOverflow Activity
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
+
 ---
 
 #### GitHub Stats
 
 [![Bumblebee's github stats](https://github-readme-stats.vercel.app/api?username=bumblebee211196&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-#### GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 
 [website]: https://bumblebee2196.netlify.app/
