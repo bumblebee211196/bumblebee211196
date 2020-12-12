@@ -24,6 +24,8 @@ I am Sathish Babu aka [bumblebee211196][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
+<br />
+
 ## Latest Blog Posts
 
 ### Personal Blogs
