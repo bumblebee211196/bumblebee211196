@@ -14,7 +14,7 @@ I am Sathish Babu aka [bumblebee211196][website]
 - 🔭 I’m currently working on Machine Learning, Big Data, Distributed Systems and Message Queues
 - 🌱 I’m currently trying to learn everything
 - 🥅 My Goal: Contributing as much as possible to Open Source Projects
-- ⚡ Fun fact: I am a gamer, and I mostly play Dota 2
+- ⚡ Fun fact: I am kind of a nerd and a gamer, but I mostly play Dota 2
 
 ## How to reach me
 
