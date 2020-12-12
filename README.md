@@ -1,4 +1,6 @@
-### Hi there 👋, I am Sathish Babu aka [bumblebee211196][website]
+## Hi there 👋
+---
+I am Sathish Babu aka [bumblebee211196][website]
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/bumblebee2196?label=Follow)
 [![Linkedin: sathish_babu](https://img.shields.io/badge/-SathishBabu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sathish-babu-subramaniam-815909120/)](https://www.linkedin.com/in/sathish-babu-subramaniam-815909120/)
@@ -7,14 +9,14 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=bumblebee211196.bumblebee211196)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
-### I am a Backend Developer
+#### I am a Backend Developer
 
 - 🔭 I’m currently working on Machine Learning, Big Data, Distributed Systems and Message Queues
 - 🌱 I’m currently trying to learn everything
 - 🥅 Contributing as much as possible to Open Source Projects
 - ⚡ Fun fact: I am a gamer, and I mostly play Dota 2
 
-#### Connect with me
+## How to reach me
 
 [<img align="left" alt="https://bumblebee2196.netlify.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
@@ -24,16 +26,22 @@
 
 <br />
 
-#### Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
+## Latest Blog Posts
+
+### Personal Blogs
+<!-- BLOG:START -->
 - [Simple Document Scanner using Python and OpenCV](https://bumblebee2196.netlify.app/simple-document-scanner/)
 - [Custom NGINX Error Pages](https://bumblebee2196.netlify.app/custom-nginx-error-pages/)
 - [RabbitMQ](https://bumblebee2196.netlify.app/rabbitmq/)
 - [Hadoop Cluster Setup](https://bumblebee2196.netlify.app/hadoop-cluster-setup/)
 - [Daily Coding Problem 1](https://bumblebee2196.netlify.app/daily-coding-problem-1/)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG:END -->
 
-#### Latest StackOverflow Activity
+### Medium Blogs
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
+
+### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
 
