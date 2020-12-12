@@ -1,5 +1,5 @@
 ## Hi there 👋
----
+
 I am Sathish Babu aka [bumblebee211196][website]
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/bumblebee2196?label=Follow)
@@ -24,8 +24,6 @@ I am Sathish Babu aka [bumblebee211196][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
-<br />
-
 ## Latest Blog Posts
 
 ### Personal Blogs
@@ -45,11 +43,14 @@ I am Sathish Babu aka [bumblebee211196][website]
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
 
----
+## GitHub
 
-#### GitHub Stats
-
+### Stats
 [![Bumblebee's github stats](https://github-readme-stats.vercel.app/api?username=bumblebee211196&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### Activity
+<!-- START_SECTION:activity -->
+<!-- END_SECTION:activity -->
 
 
 [website]: https://bumblebee2196.netlify.app/
