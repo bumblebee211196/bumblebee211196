@@ -20,6 +20,7 @@
 [<img align="left" alt="Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 <br />
 
@@ -34,3 +35,4 @@
 [stackoverflow]: https://stackoverflow.com/users/6506040/bumblebee?tab=profile
 [reddit]: https://www.reddit.com/user/bumblebee2196
 [linkedin]: https://www.linkedin.com/in/sathish-babu-subramaniam-815909120/
+[medium]: https://medium.com/@sathishbabu96n
