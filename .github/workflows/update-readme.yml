@@ -29,10 +29,10 @@ jobs:
         with:
           comment_tag_name: STACKOVERFLOW
           feed_list: "https://stackoverflow.com/feeds/user/6506040"
-      # GitHub Activity Feed
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: 'Specify a custom commit message'
-          MAX_LINES: 10
+#      # GitHub Activity Feed
+#      - uses: jamesgeorge007/github-activity-readme@master
+#        env:
+#          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#        with:
+#          COMMIT_MSG: 'Specify a custom commit message'
+#          MAX_LINES: 10

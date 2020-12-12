@@ -58,10 +58,6 @@ I am Sathish Babu aka [bumblebee211196][website]
 ### Stats
 [![Bumblebee's github stats](https://github-readme-stats.vercel.app/api?username=bumblebee211196&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### Activity
-<!-- START_SECTION:activity -->
-<!-- END_SECTION:activity -->
-
 
 [website]: https://bumblebee2196.netlify.app/
 [stackoverflow]: https://stackoverflow.com/users/6506040/bumblebee?tab=profile
