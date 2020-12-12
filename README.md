@@ -33,8 +33,6 @@
 - [Daily Coding Problem 1](https://bumblebee2196.netlify.app/daily-coding-problem-1/)
 <!-- BLOG-POST-LIST:END -->
 
-<br />
-
 ---
 
 #### GitHub Stats
