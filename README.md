@@ -30,11 +30,11 @@ I am Sathish Babu aka [bumblebee211196][website]
 
 ### Personal Blogs
 <!-- BLOG:START -->
+- [Face Detection using Python and OpenCV](https://bumblebee2196.netlify.app/face-detection-using-python-and-opencv/)
 - [Simple Document Scanner using Python and OpenCV](https://bumblebee2196.netlify.app/simple-document-scanner/)
 - [Custom NGINX Error Pages](https://bumblebee2196.netlify.app/custom-nginx-error-pages/)
 - [RabbitMQ](https://bumblebee2196.netlify.app/rabbitmq/)
 - [Hadoop Cluster Setup](https://bumblebee2196.netlify.app/hadoop-cluster-setup/)
-- [Daily Coding Problem 1](https://bumblebee2196.netlify.app/daily-coding-problem-1/)
 <!-- BLOG:END -->
 
 ### Medium Blogs
