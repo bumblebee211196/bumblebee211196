@@ -39,11 +39,11 @@ I am Sathish Babu aka [bumblebee211196][website]
 
 ### Medium Blogs
 <!-- MEDIUM:START -->
+- [Daily Coding Problem: Problem #5](https://medium.com/@sathishbabu96n/daily-coding-problem-problem-5-254a2027063a?source=rss-1aaaf8ec0f1d------2)
 - [Daily Coding Problem: Problem #12](https://medium.com/dev-genius/daily-coding-problem-problem-12-8056960a3b61?source=rss-1aaaf8ec0f1d------2)
 - [Daily Coding Problem: Problem #11](https://medium.com/dev-genius/daily-coding-problem-problem-11-3452b3a63ddb?source=rss-1aaaf8ec0f1d------2)
 - [Daily Coding Problem: Problem #9](https://medium.com/dev-genius/daily-coding-problem-problem-9-b5fcb2f564b6?source=rss-1aaaf8ec0f1d------2)
 - [Daily Coding Problem: Problem #8](https://medium.com/dev-genius/daily-coding-problem-problem-8-ec735fee5471?source=rss-1aaaf8ec0f1d------2)
-- [Daily Coding Problem: Problem #7](https://medium.com/dev-genius/daily-coding-problem-problem-7-d2dc3bbf7c30?source=rss-1aaaf8ec0f1d------2)
 <!-- MEDIUM:END -->
 
 ### StackOverflow Activity
