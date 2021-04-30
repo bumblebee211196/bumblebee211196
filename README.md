@@ -42,8 +42,8 @@ I am Sathish Babu aka [bumblebee211196][website]
 - [Daily Coding Problem: Problem #10](https://sathishbabu96n.medium.com/daily-coding-problem-problem-10-da50b93bfc67?source=rss-1aaaf8ec0f1d------2)
 - [Daily Coding Problem: Problem #6](https://sathishbabu96n.medium.com/daily-coding-problem-problem-6-81d311bf239f?source=rss-1aaaf8ec0f1d------2)
 - [Daily Coding Problem: Problem #5](https://sathishbabu96n.medium.com/daily-coding-problem-problem-5-254a2027063a?source=rss-1aaaf8ec0f1d------2)
-- [Daily Coding Problem: Problem #12](https://medium.com/dev-genius/daily-coding-problem-problem-12-8056960a3b61?source=rss-1aaaf8ec0f1d------2)
-- [Daily Coding Problem: Problem #11](https://medium.com/dev-genius/daily-coding-problem-problem-11-3452b3a63ddb?source=rss-1aaaf8ec0f1d------2)
+- [Daily Coding Problem: Problem #12](https://blog.devgenius.io/daily-coding-problem-problem-12-8056960a3b61?source=rss-1aaaf8ec0f1d------2)
+- [Daily Coding Problem: Problem #11](https://blog.devgenius.io/daily-coding-problem-problem-11-3452b3a63ddb?source=rss-1aaaf8ec0f1d------2)
 <!-- MEDIUM:END -->
 
 ### StackOverflow Activity
