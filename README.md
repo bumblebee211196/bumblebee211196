@@ -30,11 +30,11 @@ I am Sathish Babu aka [bumblebee211196][website]
 
 ### Personal Blogs
 <!-- BLOG:START -->
-- [Semantic Segmentation using Python and OpenCV](https://bumblebee2196.netlify.app/semantic-segmentation/)
-- [Face Recognition using Python and OpenCV](https://bumblebee2196.netlify.app/face-recognition-using-python-and-opencv/)
-- [Face Detection using Python and OpenCV](https://bumblebee2196.netlify.app/face-detection-using-python-and-opencv/)
-- [Simple Document Scanner using Python and OpenCV](https://bumblebee2196.netlify.app/simple-document-scanner/)
-- [Custom NGINX Error Pages](https://bumblebee2196.netlify.app/custom-nginx-error-pages/)
+- [Semantic Segmentation using Python and OpenCV](https://www.sathishbabu.co.in/semantic-segmentation/)
+- [Face Recognition using Python and OpenCV](https://www.sathishbabu.co.in/face-recognition-using-python-and-opencv/)
+- [Face Detection using Python and OpenCV](https://www.sathishbabu.co.in/face-detection-using-python-and-opencv/)
+- [Simple Document Scanner using Python and OpenCV](https://www.sathishbabu.co.in/simple-document-scanner/)
+- [Custom NGINX Error Pages](https://www.sathishbabu.co.in/custom-nginx-error-pages/)
 <!-- BLOG:END -->
 
 ### Medium Blogs
