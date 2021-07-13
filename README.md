@@ -56,11 +56,16 @@
 <div>
     <h3>Personal Blogs</h3>
     
-<!-- BLOG:START --><p>Semantic Segmentation using Python and OpenCV<a href="https://www.sathishbabu.co.in/semantic-segmentation/"></a></p>
-<p>Face Recognition using Python and OpenCV<a href="https://www.sathishbabu.co.in/face-recognition-using-python-and-opencv/"></a></p>
-<p>Face Detection using Python and OpenCV<a href="https://www.sathishbabu.co.in/face-detection-using-python-and-opencv/"></a></p>
-<p>Simple Document Scanner using Python and OpenCV<a href="https://www.sathishbabu.co.in/simple-document-scanner/"></a></p>
-<p>Custom NGINX Error Pages<a href="https://www.sathishbabu.co.in/custom-nginx-error-pages/"></a></p>
+<!-- BLOG:START -->
+<a href="https://www.sathishbabu.co.in/semantic-segmentation/"><p>Semantic Segmentation using Python and OpenCV</p></a>
+
+<a href="https://www.sathishbabu.co.in/face-recognition-using-python-and-opencv/"><p>Face Recognition using Python and OpenCV</p></a>
+
+<a href="https://www.sathishbabu.co.in/face-detection-using-python-and-opencv/"><p>Face Detection using Python and OpenCV</p></a>
+
+<a href="https://www.sathishbabu.co.in/simple-document-scanner/"><p>Simple Document Scanner using Python and OpenCV</p></a>
+
+<a href="https://www.sathishbabu.co.in/custom-nginx-error-pages/"><p>Custom NGINX Error Pages</p></a>
 <!-- BLOG:END -->
 
 </div>
