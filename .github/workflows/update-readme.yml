@@ -19,17 +19,19 @@ jobs:
         with:
           comment_tag_name: BLOG
           feed_list: "https://bumblebee2196.netlify.app/feed.xml"
-          template: <p>$title<a href="$url"></a></p>$newline
+          template: $newline<a href="$url"><p>$title</p></a>$newline
       # Medium Blog Feed
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: MEDIUM
           feed_list: "https://medium.com/feed/@sathishbabu96n"
+          template: $newline<a href="$url"><p>$title</p></a>$newline
       # StackOverflow Feed
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: STACKOVERFLOW
           feed_list: "https://stackoverflow.com/feeds/user/6506040"
+          template: $newline<a href="$url"><p>$title</p></a>$newline
 #      # GitHub Activity Feed
 #      - uses: jamesgeorge007/github-activity-readme@master
 #        env:
