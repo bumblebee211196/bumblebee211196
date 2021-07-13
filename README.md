@@ -91,11 +91,15 @@
     <h3>StackOverflow Activity</h3>
 
 <!-- STACKOVERFLOW:START -->
-- [Answer by bumblebee for Using python output xml](https://stackoverflow.com/questions/67832669/using-python-output-xml/67832777#67832777)
-- [Answer by bumblebee for recursive function does not work as expected](https://stackoverflow.com/questions/67085345/recursive-function-does-not-work-as-expected/67085413#67085413)
-- [Answer by bumblebee for Why is only one RabbitMQ consumer receiving all the messages when I have two consumer threads going?](https://stackoverflow.com/questions/65294066/why-is-only-one-rabbitmq-consumer-receiving-all-the-messages-when-i-have-two-con/65300591#65300591)
-- [Answer by bumblebee for Python3 Run function while there is internet connection + check connection every x min](https://stackoverflow.com/questions/64237016/python3-run-function-while-there-is-internet-connection-check-connection-every/64238337#64238337)
-- [Answer by bumblebee for Re-creating a queue afters its manually deleted RabbitMQ](https://stackoverflow.com/questions/62823785/re-creating-a-queue-afters-its-manually-deleted-rabbitmq/62828236#62828236)
+<a href="https://stackoverflow.com/questions/67832669/using-python-output-xml/67832777#67832777"><p>Answer by bumblebee for Using python output xml</p></a>
+
+<a href="https://stackoverflow.com/questions/67085345/recursive-function-does-not-work-as-expected/67085413#67085413"><p>Answer by bumblebee for recursive function does not work as expected</p></a>
+
+<a href="https://stackoverflow.com/questions/65294066/why-is-only-one-rabbitmq-consumer-receiving-all-the-messages-when-i-have-two-con/65300591#65300591"><p>Answer by bumblebee for Why is only one RabbitMQ consumer receiving all the messages when I have two consumer threads going?</p></a>
+
+<a href="https://stackoverflow.com/questions/64237016/python3-run-function-while-there-is-internet-connection-check-connection-every/64238337#64238337"><p>Answer by bumblebee for Python3 Run function while there is internet connection + check connection every x min</p></a>
+
+<a href="https://stackoverflow.com/questions/62823785/re-creating-a-queue-afters-its-manually-deleted-rabbitmq/62828236#62828236"><p>Answer by bumblebee for Re-creating a queue afters its manually deleted RabbitMQ</p></a>
 <!-- STACKOVERFLOW:END -->
 
 </div>
