@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-    <img src="assets/img/profile.jpg" width="300px" height="200px">
+    <img src="assets/img/profile.jpg" width="350px" height="300px">
 </div>
 
 <div align="center">
@@ -21,9 +21,9 @@
     <h2>About me</h2>
     <h3>I am a Backend Developer from India</h3>
     <p>🔭 I’m currently working on Machine Learning, Big Data, Distributed Systems and Message Queues</p>
-    <p>🌱 I’m currently trying to Full-Stack development using Golang as a backend.</p>
+    <p>🌱 I’m currently trying to Full-Stack development using Golang as a backend</p>
     <p>🥅 My Goal: Contributing as much as possible to Open Source Projects</p>
-    <p>⚡ Fun fact: I am kind of a nerd and a gamer, but I mostly play Dota 2</p>
+    <p>⚡ Fun fact: Coder by day and gamer by night</p>
 </div>
 
 <br />
