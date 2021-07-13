@@ -15,8 +15,6 @@
     <img src="https://img.shields.io/stackexchange/stackoverflow/r/6506040">
 </div>
 
-<br />
-
 <div align="center">
     <h2>About me</h2>
     <h3>I am a Backend Developer at Zoho</h3>
@@ -25,8 +23,6 @@
     <p>🥅 My Goal: Contributing as much as possible to Open Source Projects</p>
     <p>⚡ Fun fact: Coder by day and gamer by night</p>
 </div>
-
-<br />
 
 <div align="center">
     <h2>How to Reach me</h2>
@@ -46,8 +42,6 @@
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
     </a>
 </div>
-
-<br />
 
 <div align="center">
     <h2>Latest Blog Posts</h2>
@@ -103,8 +97,6 @@
 <!-- STACKOVERFLOW:END -->
 
 </details>
-
-<br />
 
 <div align="center">
     <h2>GitHub</h2>
