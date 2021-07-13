@@ -74,11 +74,15 @@
     <h3>Medium Blogs</h3>
 
 <!-- MEDIUM:START -->
-- [Multiple git accounts in one machine](https://sathishbabu96n.medium.com/multiple-git-accounts-in-one-machine-7ec4fd40638f?source=rss-1aaaf8ec0f1d------2)
-- [Daily Coding Problem: Problem #10](https://sathishbabu96n.medium.com/daily-coding-problem-problem-10-da50b93bfc67?source=rss-1aaaf8ec0f1d------2)
-- [Daily Coding Problem: Problem #6](https://sathishbabu96n.medium.com/daily-coding-problem-problem-6-81d311bf239f?source=rss-1aaaf8ec0f1d------2)
-- [Daily Coding Problem: Problem #5](https://sathishbabu96n.medium.com/daily-coding-problem-problem-5-254a2027063a?source=rss-1aaaf8ec0f1d------2)
-- [Daily Coding Problem: Problem #12](https://blog.devgenius.io/daily-coding-problem-problem-12-8056960a3b61?source=rss-1aaaf8ec0f1d------2)
+<a href="https://sathishbabu96n.medium.com/multiple-git-accounts-in-one-machine-7ec4fd40638f?source=rss-1aaaf8ec0f1d------2"><p>Multiple git accounts in one machine</p></a>
+
+<a href="https://sathishbabu96n.medium.com/daily-coding-problem-problem-10-da50b93bfc67?source=rss-1aaaf8ec0f1d------2"><p>Daily Coding Problem: Problem #10</p></a>
+
+<a href="https://sathishbabu96n.medium.com/daily-coding-problem-problem-6-81d311bf239f?source=rss-1aaaf8ec0f1d------2"><p>Daily Coding Problem: Problem #6</p></a>
+
+<a href="https://sathishbabu96n.medium.com/daily-coding-problem-problem-5-254a2027063a?source=rss-1aaaf8ec0f1d------2"><p>Daily Coding Problem: Problem #5</p></a>
+
+<a href="https://blog.devgenius.io/daily-coding-problem-problem-12-8056960a3b61?source=rss-1aaaf8ec0f1d------2"><p>Daily Coding Problem: Problem #12</p></a>
 <!-- MEDIUM:END -->
 
 </div>
