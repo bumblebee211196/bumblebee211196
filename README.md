@@ -66,7 +66,7 @@
 <a href="https://www.sathishbabu.co.in/simple-document-scanner/"><p>Simple Document Scanner using Python and OpenCV</p></a>
 
 <a href="https://www.sathishbabu.co.in/custom-nginx-error-pages/"><p>Custom NGINX Error Pages</p></a>
-<!-details- BLOG:END -->
+<!-- BLOG:END -->
 
 </details>
 
