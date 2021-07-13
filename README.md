@@ -53,8 +53,8 @@
     <h2>Latest Blog Posts</h2>
 </div>
 
-<div>
-    <h3>Personal Blogs</h3>
+<details>
+    <summary>Personal Blogs</summary>
     
 <!-- BLOG:START -->
 <a href="https://www.sathishbabu.co.in/semantic-segmentation/"><p>Semantic Segmentation using Python and OpenCV</p></a>
@@ -66,12 +66,12 @@
 <a href="https://www.sathishbabu.co.in/simple-document-scanner/"><p>Simple Document Scanner using Python and OpenCV</p></a>
 
 <a href="https://www.sathishbabu.co.in/custom-nginx-error-pages/"><p>Custom NGINX Error Pages</p></a>
-<!-- BLOG:END -->
+<!-details- BLOG:END -->
 
-</div>
+</details>
 
-<div>
-    <h3>Medium Blogs</h3>
+<details>
+    <summary>Medium Blogs</summary>
 
 <!-- MEDIUM:START -->
 <a href="https://sathishbabu96n.medium.com/multiple-git-accounts-in-one-machine-7ec4fd40638f?source=rss-1aaaf8ec0f1d------2"><p>Multiple git accounts in one machine</p></a>
@@ -85,10 +85,10 @@
 <a href="https://blog.devgenius.io/daily-coding-problem-problem-12-8056960a3b61?source=rss-1aaaf8ec0f1d------2"><p>Daily Coding Problem: Problem #12</p></a>
 <!-- MEDIUM:END -->
 
-</div>
+</details>
 
-<div>
-    <h3>StackOverflow Activity</h3>
+<details>
+    <summary>StackOverflow Activity</summary>
 
 <!-- STACKOVERFLOW:START -->
 <a href="https://stackoverflow.com/questions/67832669/using-python-output-xml/67832777#67832777"><p>Answer by bumblebee for Using python output xml</p></a>
@@ -102,7 +102,7 @@
 <a href="https://stackoverflow.com/questions/62823785/re-creating-a-queue-afters-its-manually-deleted-rabbitmq/62828236#62828236"><p>Answer by bumblebee for Re-creating a queue afters its manually deleted RabbitMQ</p></a>
 <!-- STACKOVERFLOW:END -->
 
-</div>
+</details>
 
 <br />
 
@@ -113,9 +113,3 @@
         <img src="https://github-readme-stats.vercel.app/api?username=bumblebee211196&show_icons=true">
     </a>
 </div>
-
-[website]: https://sathishbabu.co.in
-[stackoverflow]: https://stackoverflow.com/users/6506040/bumblebee?tab=profile
-[reddit]: https://www.reddit.com/user/bumblebee2196
-[linkedin]: https://www.linkedin.com/in/sathish-babu-subramaniam-815909120/
-[medium]: https://medium.com/@sathishbabu96n
