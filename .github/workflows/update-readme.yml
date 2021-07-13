@@ -19,6 +19,7 @@ jobs:
         with:
           comment_tag_name: BLOG
           feed_list: "https://bumblebee2196.netlify.app/feed.xml"
+          template: <p>$title<a href="$url"></a></p>$newline
       # Medium Blog Feed
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
