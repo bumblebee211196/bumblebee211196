@@ -1,6 +1,6 @@
 <div align="center">
     <h2>Hi there 👋 </h2>
-    <p>I am <a href="https://sathishbabu.co.in">Sathish Babu</a></p>
+    <h3>I am <a href="https://sathishbabu.co.in">Sathish Babu</a></h3>
 </div>
 
 <div align="center">
