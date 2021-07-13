@@ -56,12 +56,11 @@
 <div>
     <h3>Personal Blogs</h3>
     
-<!-- BLOG:START -->
-- [Semantic Segmentation using Python and OpenCV](https://www.sathishbabu.co.in/semantic-segmentation/)
-- [Face Recognition using Python and OpenCV](https://www.sathishbabu.co.in/face-recognition-using-python-and-opencv/)
-- [Face Detection using Python and OpenCV](https://www.sathishbabu.co.in/face-detection-using-python-and-opencv/)
-- [Simple Document Scanner using Python and OpenCV](https://www.sathishbabu.co.in/simple-document-scanner/)
-- [Custom NGINX Error Pages](https://www.sathishbabu.co.in/custom-nginx-error-pages/)
+<!-- BLOG:START --><p>Semantic Segmentation using Python and OpenCV<a href="https://www.sathishbabu.co.in/semantic-segmentation/"></a></p>
+<p>Face Recognition using Python and OpenCV<a href="https://www.sathishbabu.co.in/face-recognition-using-python-and-opencv/"></a></p>
+<p>Face Detection using Python and OpenCV<a href="https://www.sathishbabu.co.in/face-detection-using-python-and-opencv/"></a></p>
+<p>Simple Document Scanner using Python and OpenCV<a href="https://www.sathishbabu.co.in/simple-document-scanner/"></a></p>
+<p>Custom NGINX Error Pages<a href="https://www.sathishbabu.co.in/custom-nginx-error-pages/"></a></p>
 <!-- BLOG:END -->
 
 </div>
