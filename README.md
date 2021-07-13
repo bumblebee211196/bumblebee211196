@@ -21,7 +21,7 @@
     <h2>About me</h2>
     <h3>I am a Backend Developer at Zoho</h3>
     <p>🔭 I’m currently working on Machine Learning, Big Data, Distributed Systems and Message Queues</p>
-    <p>🌱 I’m currently trying to Full-Stack development using Golang as a backend</p>
+    <p>🌱 I’m currently trying to learn Full-Stack development using Golang as a backend</p>
     <p>🥅 My Goal: Contributing as much as possible to Open Source Projects</p>
     <p>⚡ Fun fact: Coder by day and gamer by night</p>
 </div>
