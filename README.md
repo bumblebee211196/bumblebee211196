@@ -1,6 +1,8 @@
 <div align="center">
-    <h2>Hi there 👋 </h2>
-    <h3>I am <a href="https://sathishbabu.co.in">Sathish Babu</a></h3>
+    <h2><img src="assets/img/wave.gif" width="40px" height="40px"></h2>
+    <a href="https://git.io/typing-svg">
+            <img src="https://bumblebee-typing-svg.herokuapp.com/?color=297EF7&size=24&lines=Hi+there!.+I+am+Sathish+Babu">
+    </a>
 </div>
 
 <div align="center">
@@ -41,6 +43,17 @@
     <a href="https://twitter.com/bumblebee2196">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
     </a>
+</div>
+
+<div align="center">
+    <h2>Languages and Frameworks</h2>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+    <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white">
+    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+    <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
 </div>
 
 <div align="center">
