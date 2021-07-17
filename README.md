@@ -103,6 +103,8 @@
     <summary>StackOverflow Activity</summary>
 
 <!-- STACKOVERFLOW:START -->
+<a href="https://stackoverflow.com/questions/68402761/can-someone-please-explain-to-me-why-clearing-a-dictionary-after-its-been-appen/68403643#68403643"><p>Answer by bumblebee for Can someone please explain to me why clearing a dictionary after it's been appended to a list wipes out the list? Do I have to commit it somehow?</p></a>
+
 <a href="https://stackoverflow.com/questions/67832669/using-python-output-xml/67832777#67832777"><p>Answer by bumblebee for Using python output xml</p></a>
 
 <a href="https://stackoverflow.com/questions/67085345/recursive-function-does-not-work-as-expected/67085413#67085413"><p>Answer by bumblebee for recursive function does not work as expected</p></a>
@@ -110,8 +112,6 @@
 <a href="https://stackoverflow.com/questions/65294066/why-is-only-one-rabbitmq-consumer-receiving-all-the-messages-when-i-have-two-con/65300591#65300591"><p>Answer by bumblebee for Why is only one RabbitMQ consumer receiving all the messages when I have two consumer threads going?</p></a>
 
 <a href="https://stackoverflow.com/questions/64237016/python3-run-function-while-there-is-internet-connection-check-connection-every/64238337#64238337"><p>Answer by bumblebee for Python3 Run function while there is internet connection + check connection every x min</p></a>
-
-<a href="https://stackoverflow.com/questions/62823785/re-creating-a-queue-afters-its-manually-deleted-rabbitmq/62828236#62828236"><p>Answer by bumblebee for Re-creating a queue afters its manually deleted RabbitMQ</p></a>
 <!-- STACKOVERFLOW:END -->
 
 </details>
