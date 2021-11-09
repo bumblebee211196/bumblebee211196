@@ -103,7 +103,7 @@
     <summary>StackOverflow Activity</summary>
 
 <!-- STACKOVERFLOW:START -->
-<a href="https://stackoverflow.com/questions/68402761/can-someone-please-explain-to-me-why-clearing-a-dictionary-after-its-been-appen/68403643#68403643"><p>Answer by bumblebee for Can someone please explain to me why clearing a dictionary after it's been appended to a list wipes out the list? Do I have to commit it somehow?</p></a>
+<a href="https://stackoverflow.com/questions/68402761/can-someone-please-explain-to-me-why-clearing-a-dictionary-after-its-been-appen/68403643#68403643"><p>Answer by bumblebee for Can someone please explain to me why clearing a dictionary after it&#39;s been appended to a list wipes out the list? Do I have to commit it somehow?</p></a>
 
 <a href="https://stackoverflow.com/questions/67832669/using-python-output-xml/67832777#67832777"><p>Answer by bumblebee for Using python output xml</p></a>
 
