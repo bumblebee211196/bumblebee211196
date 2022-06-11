@@ -19,7 +19,7 @@
 
 <div align="center">
     <h2>About me</h2>
-    <h3>I am a Backend Developer at Zoho</h3>
+    <h3>I am a Software Engineer at Google</h3>
     <div align="left">
         <ul>
             <li>🔭 I’m currently working on Machine Learning, Distributed Systems and Message Queues</li>
