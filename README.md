@@ -22,7 +22,7 @@
     <h3>I am a Software Engineer at Google</h3>
     <div align="left">
         <ul>
-            <li>🔭 I’m currently working on Machine Learning, Distributed Systems and Message Queues</li>
+            <li>🔭 I’m currently working on Google Cloud Secutiry and Privacy</li>
             <li>🌱 I’m currently trying to learn Full-Stack development with React.js and Golang</li>
             <li>🥅 My Goal: Contributing as much as possible to Open Source Projects</li>
             <li>⚡ Fun fact: Coder by day and gamer by night</li>
