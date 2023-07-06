@@ -1,8 +1,5 @@
 <div align="center">
-    <h2><img src="assets/img/wave.gif" width="40px" height="40px"></h2>
-    <a href="https://git.io/typing-svg">
-            <img src="https://bumblebee-typing-svg.herokuapp.com/?color=297EF7&size=24&lines=Hi+there!.+I+am+Sathish+Babu">
-    </a>
+    <h2><img src="assets/img/wave.gif" width="40px" height="40px"> Hi there!. I am Sathish Babu</h2>
 </div>
 
 <div align="center">
